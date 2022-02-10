@@ -1,0 +1,16 @@
+# Tutaj mozna ustawic prefix pluginu:
+prefix: "&3&lxKenAutoMsg"
+
+# Tutaj mozna ustawic domyslny czas wysylania sie wiadomosci na serwerze:
+message_timer: 60
+
+# Tutaj mozna ustawic wiadomosci do naszego automessage'a:
+messages:
+  - '&8>> &aPierwsza wiadomosc...'
+  - '&8>> &bDruga wiadomosc...'
+  - '&8>> &cTrzecia wiadomosc...'
+  - '&8>> &dCzwarta wiadomosc...'
+  - '&8>> &ePiata wiadomosc...'
+
+# Tutaj mozna wlaczyc i wylaczyc informacje o naszym pluginie:
+plugin_info: true
